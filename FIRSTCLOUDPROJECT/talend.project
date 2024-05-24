@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_bWG44RnEEe-nLNsh2ZB8vw" label="FirstCloudProject" description="This is my talend cloud repo - createe account with vesture and then create a repo " language="java" technicalLabel="FIRSTCLOUDPROJECT" author="_bWQp4BnEEe-nLNsh2ZB8vw" productVersion="Talend Cloud Data Management Platform-8.0.1.20240418_1105-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Noomaad/TalendCloudRepository.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_bYpPgBnEEe-nLNsh2ZB8vw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_bWQp4BnEEe-nLNsh2ZB8vw" login="ndhgqphj67@trial14629.ap.talend.com" firstName="Testing" lastName="Testing" type="DQ"/>
+</xmi:XMI>
