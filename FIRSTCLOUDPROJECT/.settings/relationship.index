@@ -1,1 +1,65 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_BHOtoBvnEe-4arlxVj_StQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OXVRwBvnEe-4arlxVj_StQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zBtNUBv6Ee-4arlxVj_StQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OXVRwBvnEe-4arlxVj_StQ - Fee",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OXVRwBvnEe-4arlxVj_StQ - Student",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QwcVsB19Ee-1B_s5JVT4lQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BJ8kYBztEe-8N5fWX2Wk-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g-41UBzwEe-8N5fWX2Wk-w",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_T0hEUB11Ee-1B_s5JVT4lQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ ]
+}, {
+  "baseItem" : {
+    "id" : "_wyCXQBzrEe-8N5fWX2Wk-w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BJ8kYBztEe-8N5fWX2Wk-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g-41UBzwEe-8N5fWX2Wk-w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zBtNUBv6Ee-4arlxVj_StQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
