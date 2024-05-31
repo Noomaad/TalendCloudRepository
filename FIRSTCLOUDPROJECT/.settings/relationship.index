@@ -45,6 +45,17 @@
   "relatedItems" : [ ]
 }, {
   "baseItem" : {
+    "id" : "_p3MFsB5DEe-mwIn6yx8Cgw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_joFFAB54Ee-r8tSHmpyerQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_wyCXQBzrEe-8N5fWX2Wk-w",
     "version" : "0.1",
     "type" : "job"
